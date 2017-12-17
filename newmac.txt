@@ -1,0 +1,23 @@
+IP address       HW type     Flags       HW address            Mask     Device
+
+192.168.0.21     0x1         0x2         e8:b1:fc:a3:87:89     *        br-lan
+
+192.168.0.179    0x1         0x0         88:63:df:1d:b6:bd     *        br-lan
+
+192.168.0.144    0x1         0x2         50:a7:2b:94:20:84     *        br-lan
+
+192.168.0.124    0x1         0x2         24:1f:a0:01:05:95     *        br-lan
+
+192.168.0.175    0x1         0x2         f4:8b:32:76:15:9f     *        br-lan
+
+192.168.0.161    0x1         0x2         4c:fb:45:d6:8d:02     *        br-lan
+
+192.168.0.158    0x1         0x0         c0:f2:fb:92:da:6b     *        br-lan
+
+192.168.0.159    0x1         0x2         ec:5a:86:8c:62:c6     *        br-lan
+
+192.168.0.130    0x1         0x2         c0:1a:da:8c:87:3a     *        br-lan
+
+192.168.0.134    0x1         0x2         f0:25:b7:e9:a4:32     *        br-lan
+
+192.168.0.157    0x1         0x2         2c:5b:b8:6d:14:28     *        br-lan
